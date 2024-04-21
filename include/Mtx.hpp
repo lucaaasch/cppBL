@@ -5,10 +5,10 @@
 #include <string>
 #include <string.h>
 #include <stdlib.h>
-#include "C:\Users\Lucas\Desktop\api\src\biblioteca\funciones\strings.hpp"
-#include "C:\Users\Lucas\Desktop\api\src\biblioteca\funciones\files.hpp"
-#include "C:\Users\Lucas\Desktop\api\src\biblioteca\funciones\tokens.hpp"
-#include "C:\Users\Lucas\Desktop\api\src\biblioteca\tads\Coll.hpp"
+#include "strings.hpp"
+#include "files.hpp"
+#include "tokens.hpp"
+#include "Coll.hpp"
 using namespace std;
 
 

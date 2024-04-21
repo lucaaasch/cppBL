@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <stdlib.h>
-#include "../funciones/arrays.hpp"
+#include "arrays.hpp"
 
 template<typename T>
 struct Array

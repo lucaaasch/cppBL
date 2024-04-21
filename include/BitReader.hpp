@@ -4,8 +4,8 @@
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
-#include "../funciones/strings.hpp"
-#include "../funciones/files.hpp"
+#include "strings.hpp"
+#include "files.hpp"
 
 using namespace std;
 

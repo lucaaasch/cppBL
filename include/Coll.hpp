@@ -2,7 +2,7 @@
 #define _TCOLL_T_
 
 #include <iostream>
-#include "../funciones/strings.hpp"
+#include "strings.hpp"
 
 using namespace std;
 

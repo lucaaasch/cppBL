@@ -2,7 +2,7 @@
 #define _TSTACK_TAD_
 
 #include <iostream>
-#include "../funciones/lists.hpp"
+#include "lists.hpp"
 
 using namespace std;
 
