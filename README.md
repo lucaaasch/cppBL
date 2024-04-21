@@ -8,23 +8,23 @@ La biblioteca incluye las siguientes funcionalidades principales:
 
 ### Funciones
 
-- Manejo de arrays con `arrays.hpp`.
-- Manipulación de cadenas de caracteres con `strings.hpp`.
-- Operaciones con archivos con `files.hpp`.
-- Trabajo con listas con `lists.hpp`.
-- Análisis de tokens con `tokens.hpp`.
+- Manejo de arrays con `arrays.hpp`
+- Manipulación de cadenas de caracteres con `strings.hpp`
+- Operaciones con archivos con `files.hpp`
+- Trabajo con listas con `lists.hpp`
+- Análisis de tokens con `tokens.hpp`
 
 ### Tipos Abstractos de Datos (TADs)
 
-- Array: `Array.hpp`.
-- Lector de bits: `BitReader.hpp`.
-- Escritor de bits: `BitWriter.hpp`.
-- Colección: `Coll.hpp`.
-- Lista: `List.hpp`.
-- Mapa: `Map.hpp`.
-- Matriz: `Mtx.hpp`.
-- Cola: `Queue.hpp`.
-- Pila: `Stack.hpp`.
+- Array: `Array.hpp`
+- Lector de bits: `BitReader.hpp`
+- Escritor de bits: `BitWriter.hpp`
+- Colección: `Coll.hpp`
+- Lista: `List.hpp`
+- Mapa: `Map.hpp`
+- Matriz: `Mtx.hpp`
+- Cola: `Queue.hpp`
+- Pila: `Stack.hpp`
 
 ## Uso
 
