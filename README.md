@@ -61,6 +61,8 @@ int main() {
 
 > Ambos proyectos vienen con los includes necesarios, pero sientete en la libertad de usar esta libreria para probarlos.
 
+La librería fue desarrollada en conjunto con [@msantucho1](https://github.com/msantucho1).
+
 ¡Espero que encuentres útiles estos proyectos y disfrutes explorando cppBL!
 
 
